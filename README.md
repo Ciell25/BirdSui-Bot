@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-To run the BirdX Bot, use the following command in the project directory:
+To run the BirdSui Bot, use the following command in the project directory:
 
 ```
 node main.js
