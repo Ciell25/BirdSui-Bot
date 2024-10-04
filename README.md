@@ -34,7 +34,10 @@ Before you begin, ensure you have met the following requirements:
 
 1. Edit `data.txt` file in the root directory of the project.
 2. Add your Telegram query id to the `data.txt` file, one per line.
-
+   Termux
+   ```
+   nano data.txt
+   ```
 ## Usage
 
 To run the BirdSui Bot, use the following command in the project directory:
