@@ -18,8 +18,13 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository or download the source code.
-2. Navigate to the project directory in your terminal.
-3. Install the required dependencies by running:
+   ```
+   git clone https://github.com/Galkurta/BirdSui-Bot.git
+   ```
+   ```
+   cd /BirdSui-Bot
+   ```
+2. Install the required dependencies by running:
 
    ```
    npm install
@@ -28,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 ## Configuration
 
 1. Edit `data.txt` file in the root directory of the project.
-2. Add your Telegram authentication tokens to the `data.txt` file, one per line.
+2. Add your Telegram query id to the `data.txt` file, one per line.
 
 ## Usage
 
@@ -52,7 +57,7 @@ This bot is for educational purposes only. Use it at your own risk. The develope
 
 ## Contributing
 
-Contributions to the BirdX Bot are welcome. Please feel free to submit a Pull Request.
+Contributions to the BirdSui Bot are welcome. Please feel free to submit a Pull Request.
 
 ## License
 
